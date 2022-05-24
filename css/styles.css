@@ -67,7 +67,7 @@ hr{
   height: 7vh;
 }
 
-.bbb {
+.project-row {
   padding: 0 40px;
 }
 
@@ -144,8 +144,7 @@ hr{
 }
 
 .img {
-  height: 250px;
-  object-fit: cover;
+  max-height: 250px;
 }
 
 .skills-div {
